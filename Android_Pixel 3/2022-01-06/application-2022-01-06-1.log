@@ -1,0 +1,222 @@
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:01.744 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:03.905 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:03.932 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:03.958 PropertyManager:17 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:03.960 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:03.963 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:15.337 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:18.123 BasePage:71 - login with invalidUsername
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:19.313 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:20.418 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:21.257 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:21.965 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:23.619 BasePage:71 - password is invalidPassword
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:24.202 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:24.456 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:25.204 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:26.887 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:27.470 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 09:35:28.982 BasePage:97 - product page title is - PRODUCTS
+[Android_Pixel 3 INFO ] 2022-01-06 14:10:35.229 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 14:10:37.378 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 14:10:37.422 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 14:10:37.450 PropertyManager:17 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-06 14:10:37.451 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 14:10:37.462 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 14:10:49.440 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-06 14:10:51.654 BasePage:71 - login with invalidUsername
+[Android_Pixel 3 INFO ] 2022-01-06 14:10:52.860 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 14:10:53.535 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 14:10:54.525 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:18.350 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:20.483 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:20.521 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:20.553 PropertyManager:17 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:20.554 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:20.557 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:29.600 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:31.882 BasePage:71 - login with invalidUsername
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:33.586 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:34.186 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:35.047 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:35.777 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:37.425 BasePage:71 - password is invalidPassword
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:38.020 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:38.283 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:39.050 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:40.699 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:41.288 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 15:19:42.911 BasePage:97 - product page title is - PRODUCTS
+[Android_Pixel 3 INFO ] 2022-01-06 17:17:11.560 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:17:13.459 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:17:13.487 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:17:13.512 PropertyManager:17 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-06 17:17:13.513 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:17:13.515 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:17:23.778 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-06 17:17:24.050 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:17:25.035 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:17:25.036 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:17:25.037 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:17:25.037 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:11.657 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:12.821 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:12.848 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:12.870 PropertyManager:17 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:12.870 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:12.873 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:22.204 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:22.368 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:23.362 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:23.363 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:23.364 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:23.364 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:26.073 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:27.070 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:27.070 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:27.071 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:27.071 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:36.203 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:38.372 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:40.060 BasePage:71 - password is invalidPassword
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:41.156 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:42.130 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:42.138 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:43.135 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:43.136 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:43.136 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:19:43.136 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:16.235 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:17.394 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:17.422 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:17.444 PropertyManager:17 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:17.444 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:17.447 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:26.491 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:26.675 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:27.678 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:27.678 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:27.679 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:27.679 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:29.535 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:30.530 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:30.531 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:30.531 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:30.531 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:39.473 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:41.651 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:43.332 BasePage:71 - password is invalidPassword
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:43.946 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:44.886 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:44.896 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:45.882 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:45.883 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:45.883 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:21:45.884 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:05.285 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:06.428 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:06.454 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:06.476 PropertyManager:17 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:06.476 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:06.479 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:15.290 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:17.399 BasePage:71 - login with invalidUsername
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:19.087 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:20.180 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:21.110 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:21.847 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:23.541 BasePage:71 - password is invalidPassword
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:24.197 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:24.644 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:25.459 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:27.114 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:28.177 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:25:29.837 BasePage:97 - product page title is - PRODUCTS
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:25.146 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:26.957 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:26.992 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:27.016 PropertyManager:17 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:27.017 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:27.019 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:36.333 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:39.151 BasePage:71 - login with invalidUsername
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:40.623 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:41.310 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:42.439 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:43.226 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with invalid user name.mp4
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:44.384 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:45.541 BasePage:71 - password is invalidPassword
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:46.141 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:46.541 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:47.324 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with invalid password.mp4
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:48.479 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:50.119 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:51.203 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:54.054 BasePage:97 - product page title is - PRODUCTS
+[Android_Pixel 3 INFO ] 2022-01-06 17:40:55.143 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with valid user name and password.mp4
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:19.118 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:20.605 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:20.639 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:20.662 PropertyManager:17 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:20.663 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:20.666 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:29.940 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:32.432 BasePage:71 - login with invalidUsername
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:34.284 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:35.381 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:36.302 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:37.084 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with invalid user name.mp4
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:38.247 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:39.425 BasePage:71 - password is invalidPassword
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:40.015 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:40.369 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:41.145 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with invalid password.mp4
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:42.286 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:43.456 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:44.055 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:46.426 BasePage:97 - product page title is - PRODUCTS
+[Android_Pixel 3 INFO ] 2022-01-06 17:46:47.317 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with valid user name and password.mp4
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:26.757 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:28.641 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:28.689 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:28.727 PropertyManager:17 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:28.739 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:28.742 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:37.904 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:40.555 BasePage:71 - login with invalidUsername
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:42.340 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:43.451 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:44.478 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:45.390 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with invalid user name.mp4
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:46.882 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:48.056 BasePage:71 - password is invalidPassword
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:49.150 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:49.471 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:50.355 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with invalid password.mp4
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:51.571 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:53.215 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:54.330 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:56.893 BasePage:97 - product page title is - PRODUCTS
+[Android_Pixel 3 INFO ] 2022-01-06 17:47:57.880 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with valid user name and password.mp4
+[Android_Pixel 3 INFO ] 2022-01-06 17:50:47.745 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-06 17:50:49.386 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-06 17:50:49.418 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-06 17:50:49.438 PropertyManager:17 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-06 17:50:49.439 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-06 17:50:49.441 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-06 17:50:58.664 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:01.475 BasePage:71 - login with invalidUsername
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:03.218 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:04.313 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:05.250 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:06.033 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with invalid user name.mp4
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:07.206 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:08.375 BasePage:71 - password is invalidPassword
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:09.480 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:09.915 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:10.693 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with invalid password.mp4
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:11.849 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:13.014 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:13.606 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:15.585 BasePage:97 - product page title is - PRODUCTS
+[Android_Pixel 3 INFO ] 2022-01-06 17:51:16.451 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with valid user name and password.mp4

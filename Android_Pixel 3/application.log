@@ -1,0 +1,22 @@
+[Android_Pixel 3 INFO ] 2022-01-10 16:59:43.307 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-10 16:59:45.131 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-10 16:59:45.158 DriverManager:28 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-10 16:59:45.183 PropertyManager:17 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-10 16:59:45.184 CapabilitiesManager:18 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-10 16:59:45.186 CapabilitiesManager:35 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-10 16:59:58.551 DriverManager:40 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:01.268 BasePage:71 - login with invalidUsername
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:02.915 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:03.991 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:04.796 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:05.581 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with invalid user name.mp4
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:06.718 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:07.888 BasePage:71 - password is invalidPassword
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:08.963 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:09.300 BasePage:97 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:10.046 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with invalid password.mp4
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:11.204 BasePage:71 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:12.840 BasePage:71 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:13.921 BasePage:54 - press login button
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:15.489 BasePage:97 - product page title is - PRODUCTS
+[Android_Pixel 3 INFO ] 2022-01-10 17:00:16.293 VideoManager:35 - video path: Android_Pixel 3/Videos/Login with valid user name and password.mp4

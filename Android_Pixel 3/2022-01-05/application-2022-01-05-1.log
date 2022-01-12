@@ -1,0 +1,97 @@
+[Android_Pixel 3 INFO ] 2022-01-05 12:12:01.705 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-05 12:12:03.900 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-05 12:12:10.757 DriverManager:79 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-05 12:12:41.779 PropertyManager:49 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-05 12:13:02.591 CapabilitiesManager:76 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-05 12:13:02.603 CapabilitiesManager:93 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-05 15:25:44.711 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-05 15:30:18.015 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-05 15:30:21.147 DriverManager:79 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-05 15:37:27.468 PropertyManager:49 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-05 15:38:16.803 CapabilitiesManager:76 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-05 15:38:25.354 CapabilitiesManager:93 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-05 15:42:30.821 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-05 15:42:32.321 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-05 15:42:32.351 DriverManager:79 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-05 15:42:32.373 PropertyManager:49 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-05 15:42:32.374 CapabilitiesManager:76 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-05 15:42:32.376 CapabilitiesManager:93 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-05 16:00:58.410 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-05 16:01:00.203 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-05 16:01:00.233 DriverManager:79 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-05 16:01:00.255 PropertyManager:49 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-05 16:01:00.256 CapabilitiesManager:76 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-05 16:01:00.258 CapabilitiesManager:93 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-05 16:02:11.844 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-05 16:02:13.316 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-05 16:02:13.344 DriverManager:79 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-05 16:02:13.365 PropertyManager:49 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-05 16:02:13.366 CapabilitiesManager:76 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-05 16:02:13.368 CapabilitiesManager:93 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-05 16:02:37.609 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-05 16:02:39.414 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-05 16:02:39.445 DriverManager:79 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-05 16:02:39.467 PropertyManager:49 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-05 16:02:39.468 CapabilitiesManager:76 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-05 16:02:39.470 CapabilitiesManager:93 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-05 16:03:13.202 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-05 16:03:15.065 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-05 16:03:15.107 DriverManager:79 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-05 16:03:15.131 PropertyManager:49 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-05 16:03:15.132 CapabilitiesManager:76 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-05 16:03:15.134 CapabilitiesManager:93 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-05 16:47:02.453 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-05 16:47:04.587 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-05 16:47:04.619 DriverManager:79 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-05 16:47:04.644 PropertyManager:49 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-05 16:47:04.645 CapabilitiesManager:76 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-05 16:47:04.647 CapabilitiesManager:93 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-05 16:48:52.366 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-05 16:48:53.853 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-05 16:48:53.880 DriverManager:79 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-05 16:48:53.905 PropertyManager:49 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-05 16:48:53.905 CapabilitiesManager:76 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-05 16:48:53.907 CapabilitiesManager:93 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-05 17:18:14.811 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-05 17:18:18.608 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-05 17:18:18.643 DriverManager:79 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-05 17:18:18.684 PropertyManager:49 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-05 17:18:18.684 CapabilitiesManager:76 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-05 17:18:18.687 CapabilitiesManager:93 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-05 17:40:05.240 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-05 17:40:07.390 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-05 17:40:07.432 DriverManager:79 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-05 17:40:07.468 PropertyManager:49 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-05 17:40:07.471 CapabilitiesManager:76 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-05 17:40:07.475 CapabilitiesManager:93 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-05 17:47:11.526 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-05 17:47:13.378 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-05 17:47:13.409 DriverManager:79 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-05 17:47:13.432 PropertyManager:49 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-05 17:47:13.433 CapabilitiesManager:76 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-05 17:47:13.435 CapabilitiesManager:93 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-05 17:48:01.238 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-05 17:48:02.720 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-05 17:48:02.758 DriverManager:79 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-05 17:48:02.784 PropertyManager:49 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-05 17:48:02.785 CapabilitiesManager:76 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-05 17:48:37.597 CapabilitiesManager:93 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:08.427 ServerManager:20 - starting appium server
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:10.232 ServerManager:28 - Appium server started
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:10.265 DriverManager:79 - initializing Appium driver
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:10.289 PropertyManager:49 - loading config properties
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:10.290 CapabilitiesManager:76 - getting capabilities
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:10.292 CapabilitiesManager:93 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/Android.SauceLabs.Mobile.Sample.app.2.2.1.apk
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:20.372 DriverManager:91 - Driver is initialized
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:22.724 BasePage:340 - login with invalidUsername
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:24.421 BasePage:340 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:25.518 BasePage:323 - press login button
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:26.478 BasePage:366 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:27.194 BasePage:340 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:28.848 BasePage:340 - password is invalidPassword
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:29.440 BasePage:323 - press login button
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:29.709 BasePage:366 - error text is - Username and password do not match any user in this service.
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:30.467 BasePage:340 - login with standard_user
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:32.130 BasePage:340 - password is secret_sauce
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:32.736 BasePage:323 - press login button
+[Android_Pixel 3 INFO ] 2022-01-05 18:22:34.469 BasePage:366 - product page title is - PRODUCTS

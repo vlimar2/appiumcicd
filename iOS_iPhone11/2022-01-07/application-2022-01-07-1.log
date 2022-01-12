@@ -1,0 +1,36 @@
+[iOS_iPhone11 INFO ] 2022-01-07 12:09:48.256 ServerManager:20 - starting appium server
+[iOS_iPhone11 INFO ] 2022-01-07 12:09:49.675 ServerManager:28 - Appium server started
+[iOS_iPhone11 INFO ] 2022-01-07 12:09:49.708 DriverManager:28 - initializing Appium driver
+[iOS_iPhone11 INFO ] 2022-01-07 12:09:49.726 PropertyManager:17 - loading config properties
+[iOS_iPhone11 INFO ] 2022-01-07 12:09:49.727 CapabilitiesManager:18 - getting capabilities
+[iOS_iPhone11 INFO ] 2022-01-07 12:09:49.728 CapabilitiesManager:45 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/SwagLabsMobileApp.app
+[iOS_iPhone11 INFO ] 2022-01-07 12:19:54.784 ServerManager:20 - starting appium server
+[iOS_iPhone11 INFO ] 2022-01-07 12:19:56.934 ServerManager:28 - Appium server started
+[iOS_iPhone11 INFO ] 2022-01-07 12:19:56.993 DriverManager:28 - initializing Appium driver
+[iOS_iPhone11 INFO ] 2022-01-07 12:19:57.044 PropertyManager:17 - loading config properties
+[iOS_iPhone11 INFO ] 2022-01-07 12:19:57.046 CapabilitiesManager:18 - getting capabilities
+[iOS_iPhone11 INFO ] 2022-01-07 12:19:57.049 CapabilitiesManager:45 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/SwagLabsMobileApp.app
+[iOS_iPhone11 INFO ] 2022-01-07 14:31:40.764 ServerManager:20 - starting appium server
+[iOS_iPhone11 INFO ] 2022-01-07 14:31:42.897 ServerManager:28 - Appium server started
+[iOS_iPhone11 INFO ] 2022-01-07 14:31:42.933 DriverManager:28 - initializing Appium driver
+[iOS_iPhone11 INFO ] 2022-01-07 14:31:42.959 PropertyManager:17 - loading config properties
+[iOS_iPhone11 INFO ] 2022-01-07 14:31:42.960 CapabilitiesManager:18 - getting capabilities
+[iOS_iPhone11 INFO ] 2022-01-07 14:31:42.962 CapabilitiesManager:45 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/SwagLabsMobileApp.app
+[iOS_iPhone11 INFO ] 2022-01-07 15:03:30.634 ServerManager:20 - starting appium server
+[iOS_iPhone11 INFO ] 2022-01-07 15:03:32.495 ServerManager:28 - Appium server started
+[iOS_iPhone11 INFO ] 2022-01-07 15:03:32.528 DriverManager:28 - initializing Appium driver
+[iOS_iPhone11 INFO ] 2022-01-07 15:03:32.556 PropertyManager:17 - loading config properties
+[iOS_iPhone11 INFO ] 2022-01-07 15:03:32.557 CapabilitiesManager:18 - getting capabilities
+[iOS_iPhone11 INFO ] 2022-01-07 15:03:32.560 CapabilitiesManager:45 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/SwagLabsMobileApp.app
+[iOS_iPhone11 INFO ] 2022-01-07 15:37:17.931 ServerManager:20 - starting appium server
+[iOS_iPhone11 INFO ] 2022-01-07 15:37:19.861 ServerManager:28 - Appium server started
+[iOS_iPhone11 INFO ] 2022-01-07 15:37:19.896 DriverManager:28 - initializing Appium driver
+[iOS_iPhone11 INFO ] 2022-01-07 15:37:19.928 PropertyManager:17 - loading config properties
+[iOS_iPhone11 INFO ] 2022-01-07 15:37:19.929 CapabilitiesManager:18 - getting capabilities
+[iOS_iPhone11 INFO ] 2022-01-07 15:37:19.933 CapabilitiesManager:45 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/SwagLabsMobileApp.app
+[iOS_iPhone11 INFO ] 2022-01-07 15:51:52.332 ServerManager:20 - starting appium server
+[iOS_iPhone11 INFO ] 2022-01-07 15:51:53.835 ServerManager:28 - Appium server started
+[iOS_iPhone11 INFO ] 2022-01-07 15:51:53.879 DriverManager:28 - initializing Appium driver
+[iOS_iPhone11 INFO ] 2022-01-07 15:51:53.910 PropertyManager:17 - loading config properties
+[iOS_iPhone11 INFO ] 2022-01-07 15:51:53.910 CapabilitiesManager:18 - getting capabilities
+[iOS_iPhone11 INFO ] 2022-01-07 15:51:53.913 CapabilitiesManager:45 - appUrl is/Users/apple/IdeaProjects/AppiumCucumberFramework/src/test/resources/apps/SwagLabsMobileApp.app
